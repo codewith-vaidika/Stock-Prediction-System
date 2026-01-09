@@ -79,7 +79,7 @@ Stock-Price-Prediction/
 
 ---
 
-## 📈 Results
+##  Results
 
 * LSTM captures long-term stock trends.
 * XGBoost performs well on short-term fluctuations.
