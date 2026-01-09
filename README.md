@@ -6,7 +6,7 @@ A **Machine Learning project (2024 – Present)** that predicts stock prices usi
 
 ---
 
-## 🚀 Features
+##  Features
 
 *  **Data Preprocessing** using Pandas & NumPy
 *  **Visualization** with Matplotlib for trend analysis
